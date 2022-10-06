@@ -4,13 +4,15 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-jupyterlab-lsp = "*"
-python-lsp-server = "*"
+jupyterlab = "*"
 jupyterlab-hide-code = "*"
-forallpeople = "*"
 handcalcs = "*"
+forallpeople = "*"
+jupyterlab-lsp = "*"
+python-lsp-server = {extras = ["all"], version = "*"}
 pandas = "*"
-jupyterlab = "==3.4.6"
+sympy = "*"
+scipy = "*"
 
 [dev-packages]
 
