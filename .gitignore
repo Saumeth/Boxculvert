@@ -1,4 +1,6 @@
 .virtual_documents
+*.png
+*.jpeg
 
 
 # Byte-compiled / optimized / DLL files
