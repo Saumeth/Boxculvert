@@ -11,6 +11,12 @@ jupyterlab-hide-code = "*"
 forallpeople = "*"
 handcalcs = "*"
 pandas = "*"
+<<<<<<< Updated upstream
+=======
+sympy = "*"
+scipy = "*"
+matplotlib = "*"
+>>>>>>> Stashed changes
 
 [dev-packages]
 
