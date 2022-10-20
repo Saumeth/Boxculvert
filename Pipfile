@@ -13,6 +13,7 @@ python-lsp-server = {extras = ["all"], version = "*"}
 pandas = "*"
 sympy = "*"
 scipy = "*"
+notebook = "*"
 
 [dev-packages]
 
